@@ -1,2 +1,2 @@
 # jinjin
-learning is always online.
+Learning is always online.
